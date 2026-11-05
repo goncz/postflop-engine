@@ -5,4 +5,6 @@ A modified version of [postflop-solver](https://github.com/b-inary/postflop-solv
 
 Licensed under the GNU Affero General Public License, version 3 or later: see `LICENSE`.
 
+Built with Rust 1.99.1:
+
     cargo build --release --no-default-features --features rayon
